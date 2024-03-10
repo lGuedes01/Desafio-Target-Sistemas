@@ -1,0 +1,20 @@
+"
+int INDICE = 13, SOMA = 0, K = 0;
+
+enquanto K < INDICE faça
+
+{
+
+K = K + 1;
+
+SOMA = SOMA + K;
+
+}
+
+imprimir(SOMA);
+"
+
+A questão é basicamente a Soma de uma P.A de 
+r = 1
+com elementos indo de 1 a 13
+logo, ((1+13)13)/2
